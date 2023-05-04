@@ -46,6 +46,19 @@ For evaluation, answer accuracy is used to assess all models. This involves comp
 | 2       | The Open University of China                                 | OUC_NLP            |
 | 3       | Faculty of Artificial Intelligence in Education, Central China Normal University | The Burning Legion |
 | 4       | Central China Normal University, Faculty of Artificial Intelligence in Education, Xinguo Yu Research Group | Mimic Solver       |
+| 5       | Zhongyuan University of Technology | zutnlp-wuyanbo       |
+| 6       | Zhongyuan University of Technology | Zutnlp_pengzirong      |
+| 7       | Yunnan University | Tsingriver      |
+| 8       | Google | Xiao_Shan_Friend     |
+| 9       | Chongqing Technology & Business Institute | its666     |
+| 10       | NLP, School of Computer Science and Technology, Soochow University. NLP, School of Data Science, The Chinese University of Hong Kong, Shenzhen | CUHK_SU     |
+| 11       | Beijing Language and Culture University | BLCU-LCClab     |
+| 12       | Fudan University | cisl-nlp     |
+| 13       | Ant Group | Lastonestands     |
+| 14       | School of Information Science and Engineering, Yunnan University | YNU-PCJ     |
+| 15       | Convai, School of Artificial Intelligence, Nanjing University | Mdager     |
+| 16       | Text Machine Translation Lab, Huawei Technologies Co., Ltd. | HW-TSC     |
+| 17       | Center for Future Media, University of Electronic Science and Technology of China | Rush up     |
 
 ## Contact & Citation
 
