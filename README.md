@@ -65,6 +65,18 @@ For evaluation, answer accuracy is used to assess all models. This involves comp
 
 You may follow the format in `./data/submission_sample.csv` to organize your own submission file. Finally, a submission file named with `submission_<Team ID>.csv`(like `submission_01.csv`) is expected to be sent to us. 
 
+## Leaderboard
+
+| id | team             | score |
+|----|-----------------|-------|
+| 1  | Mimic Solver    | 45.83 |
+| 2  | Lagrange        | 29.75 |
+| 3  | Rush up         | 24.08 |
+| 4  | Tsingriver      | 23.66 |
+| 5  | BLCU-LCClab     | 22.58 |
+| 6  | The Burning Legion | 20.75 |
+| 7  | YNU-PCJ         | 19.16 |
+
 ## Contact & Citation
 
 ```
