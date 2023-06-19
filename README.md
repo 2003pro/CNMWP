@@ -77,6 +77,19 @@ You may follow the format in `./data/submission_sample.csv` to organize your own
 | 6  | The Burning Legion | 20.75 |
 | 7  | YNU-PCJ         | 19.16 |
 
+## FAQ
+**Q**: Detailed information about the prize and certificates?
+
+**A**: The top 3 teams will be awarded certification from NLPCC and CCF-NLP. For more information, please visit the official NLPCC website: [NLPCC Website](http://tcci.ccf.org.cn/conference/2023/cfpt.php#:~:text=The%20top%203%20participating%20teams%20of%20each%20task%20will%20be%20certificated%20by%20NLPCC%20and%20CCF%2DNLP.%20If%20a%20task%20has%20multiple%20sub%2Dtasks%20or%20tracks%2C%20only%20the%20top%201%20participating%20team%20of%20each%20sub%2Dtask/track%20will%20be%20certificated.)
+
+**Q**: How to make paper submission for Shared Task?
+
+**A**: The top 3 teams will be invited to submit papers to the NLPCC conference. The submitted papers will undergo a review process, and if they meet NLPCC's publication acceptance standards, they will be published in the Shared Task Track of NLPCC 2023.
+
+**Q**: Details about submission?
+
+**A**: Submission Deadline: 2023/06/30. Submission website: https://www.softconf.com/nlpcc/Eval-2023/. For more details, please refer [NLPCC Website](http://tcci.ccf.org.cn/conference/2023/cfpt.php)
+
 ## Contact & Citation
 
 ```
